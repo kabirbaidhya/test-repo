@@ -1,4 +1,4 @@
 test-repo
 =========
 
-My First repo on github
+Just a test repo
